@@ -126,8 +126,8 @@ section {
     line-height: .9;
     font-weight: bold;
     display: inline-block;
-    border: 15px solid #fff;
-    padding: 30px;
+    border: 13px solid #fff;
+    padding: 20px;
     font-size: 9rem;
     opacity: 0;
     animation: 1s fadeInFromTop cubic-bezier(0.785, 0.135, 0.15, 0.86) 1s forwards;
